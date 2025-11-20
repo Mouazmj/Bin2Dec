@@ -1,5 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+
 .container {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+h3 {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    background-color: #f9f1d7;
 }
