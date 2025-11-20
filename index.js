@@ -1,0 +1,1 @@
+const binaryString = document.getElementById('input')
