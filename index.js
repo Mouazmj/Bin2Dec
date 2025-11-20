@@ -25,6 +25,8 @@ for (let i = 0; i < value.length; i++) {
         }    
         valueAmount *= 2;    
     }    
+    result.textContent = decimalResult
 }
 
 
+button.addEventListener('click', validating)
