@@ -1,4 +1,6 @@
 const binaryString = document.getElementById('input')
+const result = document.getElementById('result')
+const button = document.getElementById('convert-button')
 
 const validating = () => {
 const value = binaryString.value
