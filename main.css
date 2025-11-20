@@ -21,4 +21,19 @@ h3 {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     max-width: 600px;
     margin: 20px auto;
+    padding: 20px;
 }
+
+
+#input {
+    width: 100%;                      
+    max-width: 300px;                 
+    padding: 10px 15px;              
+    font-size: 1rem;                  
+    border: 2px solid #f4c542;       
+    border-radius: 8px;               
+    outline: none;                    
+    transition: all 0.3s ease;       
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+  }
+  
